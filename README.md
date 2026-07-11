@@ -52,6 +52,7 @@ memory.db（数据持久化）
 | [14-moments.md](14-moments.md) | 朋友圈：动态流 + 识图评论 + 自动发圈（含事实边界教训）|
 | [15-health.md](15-health.md) | 手环健康数据管线：Gadgetbridge→Health Connect→Tasker→自建 API |
 | [16-life-tracking.md](16-life-tracking.md) | 生活记录三件套：每日小票 + 周期月历 + 纪念日卡（含补记历史的坑）|
+| [17-desktop-widget.md](17-desktop-widget.md) | 桌面小组件：服务端接口 + Tasker Widget v2，零安卓代码（含四个配置坑）|
 
 ## 前置条件
 
